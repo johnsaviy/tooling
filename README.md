@@ -78,6 +78,6 @@ Default web root:
 
 This is for test purpose - JENKINS PROJECT 1
 
-This is for checking trnasfer over ssh
+This is for checking trnasfer over ssh/putty
 
 
