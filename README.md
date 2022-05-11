@@ -77,5 +77,6 @@ Default web root:
 
 
 This is for test purpose - JENKINS PROJECT
+publish over ssh testing
 
 
